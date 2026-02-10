@@ -8,7 +8,7 @@ If you set the parameter INSTALL_NGINX to True you should also configure workers
 Installation procedure
 1. Download the script:
 
-sudo wget https://raw.githubusercontent.com/u16052642/thrive_erp_install_script19/thrive_install_1961.sh
+sudo wget https://raw.githubusercontent.com/u16052642/thrive_erp_install_script19/refs/heads/main/thrive_install_1961.sh
 
 sudo chmod +x thrive_install_1961.sh
 
