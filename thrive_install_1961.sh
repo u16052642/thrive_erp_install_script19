@@ -112,7 +112,7 @@ sudo chown $OE_USER:$OE_USER /var/log/$OE_USER
 # Install THRIVE
 #--------------------------------------------------
 echo -e "\n==== Installing THRIVE Server ===="
-sudo git clone --depth 1 --branch $OE_VERSION https://github.com/ShaheenHossain/Thrive_ERP_19ent $OE_HOME_EXT/
+sudo git clone --depth 1 --branch $OE_VERSION https://github.com/u16052642/thrive_bureau_erp19 $OE_HOME_EXT/
 
 if [ $IS_ENTERPRISE = "True" ]; then
     # THRIVE Enterprise install!
